@@ -46,8 +46,8 @@
 
 ## Team Members
 
-[Dylan Camus](https://github.com/dcamus4)
-[Ryan Do](https://github.com/do-ryan)
-[Fan Jia](https://github.com/FanJia1223)
-[Matheus Magalhaes](https://github.com/matheusmaga)
-[Sugumar Prabhakaran](https://github.com/sug-prabhakaran)
+* Dylan Camus: [GitHub](https://github.com/dcamus4)
+* Ryan Do: [GitHub](https://github.com/do-ryan)
+* Fan Jia: [GitHub](https://github.com/FanJia1223)
+* Matheus Magalhaes: [GitHub](https://github.com/matheusmaga)
+* Sugumar Prabhakaran: [GitHub](https://github.com/sug-prabhakaran)
